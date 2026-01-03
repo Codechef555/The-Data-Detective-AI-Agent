@@ -4,6 +4,8 @@
 
 - The current "Smart Recruiter AI Agent" is excellent, but we can make it more unique and impressive by shifting the focus to an extremely trendy and high-value domain: Software Development Automation or Data Analysis.
 
+<img width="676" height="582" alt="image" src="https://github.com/user-attachments/assets/ebe1ee33-f625-4988-9045-3efdb52592c7" />
+
 - Here is a proposal for a new, impressive project following the structure of the attached PDF, using a unique, in-demand topic:
 
 **🌟 Proposed Capstone Project: Automated Data Analyst AI Agent**
