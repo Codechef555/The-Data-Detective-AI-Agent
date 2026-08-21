@@ -1,8 +1,4 @@
-https://github.com/Codechef555/The-Data-Detective-AI-Agent/blob/main/5-Day%20AI%20Agents%20Intensive%20Course%20with%20Google.png
-
 ## The-Data-Detective-AI-Agent
-
-- This is an exciting opportunity! Based on your time constraint of 72 hours and the high standards of a Kaggle capstone project, I recommend an evolution of the project you attached, as it's a solid start.
 
 - The current "Smart Recruiter AI Agent" is excellent, but we can make it more unique and impressive by shifting the focus to an extremely trendy and high-value domain: Software Development Automation or Data Analysis.
 
